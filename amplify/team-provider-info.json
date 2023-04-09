@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "urplancd2bf2de": {}
+      },
+      "api": {
+        "urplan": {}
+      },
+      "storage": {
+        "s34ace8e7b": {}
       }
     }
   }
